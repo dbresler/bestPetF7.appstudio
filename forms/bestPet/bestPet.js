@@ -5,4 +5,4 @@ var  replaceString1 = replaceString0.replace(/dog/g, "hamster");
 alert(replaceString1);
 
   
-  
+  /*replacing dog with hamster*/
